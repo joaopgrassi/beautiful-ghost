@@ -5,10 +5,10 @@
 This is my fork of the [Beautiful Ghost](https://github.com/boh717/beautiful-ghost) theme. The theme is awesome so I decided to use it for my own blog, but with some subtle changes:
 
 #### Blog header:
-The header text was to big for my taste. So I decreased it a bit. 
+The header text was too big for my taste. So I decreased it a bit. 
 
 #### Code highlighting
-I rebuild the Prism.js to include the stack of languages and technologies I work with. The new Prism.js file supports/contains:
+I've rebuilt the Prism.js to include the stack of languages and technologies I work with. The new Prism.js file supports/contains:
 * The OKAIDIA Theme 
 * Markup, CSS, C-like, Javascript, ASP.NET (C#), Bash, C#, Docker, F#, Git, JSON, Latex, LESS, Markdown, Powershell, Typescript, SASS, SQL
 * Plugins: Line Numbers, Show Language, Copy to Clipboard 
