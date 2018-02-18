@@ -1,5 +1,28 @@
 # Beautiful Ghost - A port of Beautiful Jekyll theme
 
+## About my fork
+
+This is my fork of the [Beautiful Ghost](https://github.com/boh717/beautiful-ghost) theme. The theme is awesome so I decided to use it for my own blog, but with some subtle changes:
+
+#### Blog header:
+The header text was to big for my taste. So I decreased it a bit. 
+
+#### Code highlighting
+I rebuild the Prism.js to include the stack of languages and technologies I work with. The new Prism.js file supports/contains:
+* The OKAIDIA Theme 
+* Markup, CSS, C-like, Javascript, ASP.NET (C#), Bash, C#, Docker, F#, Git, JSON, Latex, LESS, Markdown, Powershell, Typescript, SASS, SQL
+* Plugins: Line Numbers, Show Language, Copy to Clipboard 
+
+#### Future plans
+
+Since I'll be using this for my blog, I have some wishes/plans for the future. These includes:
+
+* Add a CI build
+* Generate the artifacts on successful build to easy the install process for users (link with releases)
+* Add support for CSS Preprocessors to easily customize theme
+  
+## End - About my fork
+
 This is a porting of [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll/) theme by [Dean Attali](http://deanattali.com/aboutme#contact). It supports most of the features of the original theme.
 
 Too see a live preview, just visit my [blog](https://runningcodes.net/)!
