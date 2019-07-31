@@ -6,12 +6,14 @@ http://prismjs.com/download.html?themes=prism-okaidia&languages=markup+css+clike
  * @author ocodia
  */
 
+ @import url('https://fonts.googleapis.com/css?family=Fira+Code:500&display=swap');
+
 code[class*="language-"],
 pre[class*="language-"] {
 	color: #f8f8f2;
 	background: none;
 	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
-	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-family: 'Fira Code', Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
 	text-align: left;
 	white-space: pre;
 	word-spacing: normal;
